@@ -26,7 +26,7 @@ The car is controlled through a web interface hosted by an ESP32. Users can conn
 - HTML and CSS for the control webpage
   
 ## Project Preview
-![Project Preview]()
+![Project Preview](https://github.com/Mocha-71/coe306-remote-control-car/blob/main/remote-control-car.png?raw=true)
 
 ## Circuit Connections
 ![Connection Diagram](https://github.com/Mocha-71/coe306-remote-control-car/blob/main/connections.png?raw=true)
