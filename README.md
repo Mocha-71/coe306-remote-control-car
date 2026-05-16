@@ -3,10 +3,12 @@
 This project is a remote control car developed for the COE306 course at KFUPM.  
 The car is controlled through a web interface hosted by an ESP32. Users can connect to the ESP32 access point and control the movement of the car using buttons on a webpage.
 
+[View Source Code](src/esp32_remote_control_car.ino)
+
 ## Features
 - ESP32-based web control
 - Wireless control through a browser
-- Forward, backward, left, right, and stop movement
+- Forward, backwards, left, right, and stop movement
 - Servo motor control
 - Responsive web interface that supports both vertical and horizontal phone orientations
 
