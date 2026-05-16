@@ -39,4 +39,4 @@ When a button is pressed, the browser sends a request to the ESP32, and the ESP3
 - The servo stop value may need calibration depending on the motor.
 
 ## Documentation
-[Project Report](report.pdf)
+[Project Report](COE306_Project.pdf)
