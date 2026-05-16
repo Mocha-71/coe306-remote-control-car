@@ -26,7 +26,7 @@ The car is controlled through a web interface hosted by an ESP32. Users can conn
 - HTML and CSS for the control webpage
 
 ## Circuit Connections
-![Connection Diagram](images/connections.png)
+![Connection Diagram](https://github.com/Mocha-71/coe306-remote-control-car/blob/main/connections.png?raw=true)
 ## How It Works
 The ESP32 creates a Wi-Fi access point.  
 After connecting to the ESP32 network, the user opens the car control webpage in a browser.  
